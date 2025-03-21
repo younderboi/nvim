@@ -6,3 +6,4 @@
 vim.opt.tabstop = 4 -- Number of spaces that a <Tab> in the file counts for
 vim.opt.shiftwidth = 4 -- Number of spaces to use for autoindent
 vim.opt.expandtab = true -- Converts tabs to spaces
+vim.opt.clipboard = "unnamedplus"
